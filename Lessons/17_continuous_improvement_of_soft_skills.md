@@ -92,11 +92,9 @@ To facilitate your continuous improvement of soft skills, create a personal deve
 
 2. **[Coursera: Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - An online course that teaches techniques for effective learning and skill development.
 
-3. **[LinkedIn Learning: Soft Skills for Professionals](https://www.linkedin.com/learning/topics/soft-skills)** - A collection of online courses focused on enhancing various soft skills relevant to the workplace.
+3. **[Harvard Business Review: The Importance of Lifelong Learning](https://hbr.org/2019/01/the-importance-of-lifelong-learning)** - An article discussing the significance of continuous learning for personal and professional success.
 
-4. **[Harvard Business Review: The Importance of Lifelong Learning](https://hbr.org/2019/01/the-importance-of-lifelong-learning)** - An article discussing the significance of continuous learning for personal and professional success.
-
-5. **[TalentLMS: Developing Soft Skills in the Workplace](https://www.talentlms.com/blog/developing-soft-skills-workplace-why-how)** - A resource outlining strategies for developing soft skills in the workplace.
+4. **[TalentLMS: Developing Soft Skills in the Workplace](https://www.talentlms.com/blog/developing-soft-skills-workplace-why-how)** - A resource outlining strategies for developing soft skills in the workplace.
 
 ## Conclusion
 
